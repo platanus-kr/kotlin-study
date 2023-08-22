@@ -1,4 +1,4 @@
-package variable
+package operators
 
 fun main() {
     println("-----------")
@@ -34,16 +34,16 @@ fun main() {
 
 }
 
-fun startsWithA1(str: String?): Boolean {
+fun startsWithA1(str: String?): Boolean { // 파라미터의 ? : 파라미터가 null일 수 있음
     if (str == null) {
         throw IllegalArgumentException("null이 들어왔습니다")
     }
     return str.startsWith("A")
 }
 
-fun startsWithA2(str: String?): Boolean? {
+fun startsWithA2(str: String?): Boolean? { // 반환 타입의 ? : 반환이 null일 수 있음
     if (str == null) {
-        return null;
+        return null
     }
     return str.startsWith("A")
 }
@@ -55,19 +55,19 @@ fun startsWithA3(str: String?): Boolean {
     return str.startsWith("A") // 위에서 null 체크를 했기 때문에 null이 아니겠거늘 한다.
 }
 
-fun startsWithA4(str: String?): Boolean? {  // null 체크의 safe call
-    return str?.startsWith("A")
+fun startsWithA4(str: String?): Boolean? {
+    return str?.startsWith("A") // null 체크의 safe call
 }
 
-fun startsWithA5(str: String?): Boolean { // null 체크의 elvis 연산자
-    return str?.startsWith("A") ?: throw IllegalArgumentException("문자열이 없습니다")
+fun startsWithA5(str: String?): Boolean {
+    return str?.startsWith("A") ?: throw IllegalArgumentException("문자열이 없습니다") // null 체크의 elvis 연산자
 }
 
-fun startsWithA6(str: String?): Boolean { // 이런식으로 활용가능
-    return str?.startsWith("A") ?: false
+fun startsWithA6(str: String?): Boolean {
+    return str?.startsWith("A") ?: false  // 이런식으로도 활용가능
 }
 
-fun startsWithA7(str: String?): Boolean { // assert
+fun startsWithA7(str: String?): Boolean { // assert : null이 아님을 단언함.
     return str!!.startsWith("A")
 }
 

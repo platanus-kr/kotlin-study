@@ -1,4 +1,4 @@
-package variable
+package operators
 
 data class KotlinMoney(
     val amount: Long

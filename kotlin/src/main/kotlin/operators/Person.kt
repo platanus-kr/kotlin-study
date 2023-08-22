@@ -1,4 +1,4 @@
-package variable
+package operators
 
 class Person(name: String,
              age: Int) {

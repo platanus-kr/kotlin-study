@@ -1,4 +1,4 @@
-package variable
+package operators
 
 fun main() {
     val money1 = JavaMoney(2000L)

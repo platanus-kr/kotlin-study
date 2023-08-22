@@ -1,4 +1,4 @@
-package variable;
+package operators;
 
 import org.jetbrains.annotations.NotNull;
 
