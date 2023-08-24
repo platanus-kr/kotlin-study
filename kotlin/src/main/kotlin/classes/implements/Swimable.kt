@@ -1,4 +1,4 @@
-package classes.inheritances
+package classes.implements
 
 interface Swimable {
 

@@ -1,35 +1,45 @@
-# Kotlin study
+# Kotlin programming study
 
-## 1. 제어 연산
+> 언어 기본 특성 학습   
+> 2023.08.21 ~ 2023.08.26
 
-### 변수 연산
+#### 1. 제어 연산
 
-### 타입 연산
+- [변수 연산](src/main/kotlin/operators/Variables.kt)
+- [타입 연산](src/main/kotlin/operators/Types.kt)
+- [연산자 오버라이딩](src/main/kotlin/operators/operatoroverriding/KotlinMoney.kt)
+- [동등성과 동일성](src/main/kotlin/operators/Operators.kt)
 
-### 연산자 오버라이딩
+#### 2. 제어문
 
-## 2. 제어문
+- [조건문](src/main/kotlin/controlstatements/Conditions.kt)
+- [반복문](src/main/kotlin/controlstatements/Loops.kt)
+- [예외 처리](src/main/kotlin/controlstatements/exceptions/Exceptions.kt)
+- [try-with-resources](src/main/kotlin/controlstatements/exceptions/KotlinFilePrinter.kt)
+- [함수](src/main/kotlin/controlstatements/Functions.kt)
 
-### 조건문
+#### 3. 클래스
 
-### 반복문
+- [상속](src/main/kotlin/classes/Inheritances.kt)
+- [추상](src/main/kotlin/classes/implements/KotlinCat.kt)
+- [구현](src/main/kotlin/classes/implements/KotlinPenguin.kt)
+- [접근 제어, 가시성](src/main/kotlin/classes/AccessModifier.kt)
+- [정적 메소드](src/main/kotlin/classes/Statics.kt)
+- [싱글톤](src/main/kotlin/classes/Singletons.kt)
+- [익명](src/main/kotlin/classes/AnonymousClasses.kt)
+- [중첩/내부](src/main/kotlin/classes/NestedClasses.kt)
+- [data](src/main/kotlin/classes/DataClasses.kt)
+- [enum](src/main/kotlin/classes/EnumClasses.kt)
+- [sealed](src/main/kotlin/classes/SealedClasses.kt)
 
-### 예외 처리
+#### 4. 컬랙션
 
-### 함수 (선언, 파라미터)
+- [배열](src/main/kotlin/collections/#)
+- [리스트](src/main/kotlin/collections/#)
+- [맵](src/main/kotlin/collections/#)
 
-## 3. 클래스
+#### 5. 람다
 
-### 상속
+#### 6. 함수형 프로그래밍
 
-### 접근 제어, 가시성
-
-### object
-
-- static
-- singleton
-- 익명 클래스 
-
-### 중첩/내부 클래스
-
-### 
+#### 7. 기타

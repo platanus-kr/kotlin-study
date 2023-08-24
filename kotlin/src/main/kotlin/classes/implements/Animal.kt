@@ -1,4 +1,4 @@
-package classes.inheritances
+package classes.implements
 
 abstract class Animal (
     protected val species: String,

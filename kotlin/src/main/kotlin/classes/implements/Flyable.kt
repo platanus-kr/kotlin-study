@@ -1,4 +1,4 @@
-package classes.inheritances
+package classes.implements
 
 interface Flyable { // public 생략 가능
     fun act() {// default 생략 가능

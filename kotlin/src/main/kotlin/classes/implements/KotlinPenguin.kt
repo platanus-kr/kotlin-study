@@ -1,4 +1,4 @@
-package classes.inheritances
+package classes.implements
 
 class KotlinPenguin(
     species: String /**, override val swimAbility: Int // 여기 넣든가.. */

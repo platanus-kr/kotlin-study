@@ -1,4 +1,4 @@
-package classes.inheritances
+package classes.implements
 
 class KotlinCat(
     species: String
