@@ -34,9 +34,10 @@
 
 #### 4. 컬랙션
 
-- [배열](src/main/kotlin/collections/#)
-- [리스트](src/main/kotlin/collections/#)
-- [맵](src/main/kotlin/collections/#)
+- [배열](src/main/kotlin/collections/Arrays.kt)
+- [리스트](src/main/kotlin/collections/Lists.kt)
+- [맵](src/main/kotlin/collections/Maps.kt)
+- [세트](src/main/kotlin/collections/Sets.kt)
 
 #### 5. 람다
 
