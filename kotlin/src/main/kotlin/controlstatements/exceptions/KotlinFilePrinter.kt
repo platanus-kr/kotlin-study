@@ -19,4 +19,15 @@ class KotlinFilePrinter {
             println(reader.readLine())
         }
     }
+
+    /**
+     * (스포)
+     *
+     * 나중에 람다 할 때 다시 오게 되니 패스
+     *
+     * .use()를 따라가보면 Closable 구현체에 대한 T의 확장 함수인 것을 알 수 있다.
+     * 받는 파라미터가 (T) -> R의 Function 인터페이스 식 람다다.
+     * inline 함수다.
+     *
+     */
 }

@@ -1,4 +1,4 @@
-package classes.collections
+package collections
 
 fun main() {
     val array = arrayOf(100, 200)

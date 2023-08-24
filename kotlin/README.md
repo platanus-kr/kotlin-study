@@ -39,8 +39,14 @@
 - [맵](src/main/kotlin/collections/Maps.kt)
 - [세트](src/main/kotlin/collections/Sets.kt)
 
-#### 5. 람다
+#### 5. 함수
+- [확장 함수](src/main/kotlin/functions/ExtensionFunctions.kt)
+- [중위 함수](src/main/kotlin/functions/InfixFunctions.kt)
+- [inline 함수](src/main/kotlin/functions/InlineFunctions.kt)
+- [지역 함수](src/main/kotlin/functions/LocalFunctions.kt)
+- [람다(자바편)](src/main/kotlin/functions/misc/JavaLambdas.java)
+- [람다](src/main/kotlin/functions/Lambdas.kt)
+- [클로저](src/main/kotlin/functions/Closures.kt)
+- [함수형 컬렉션](src/main/kotlin/functions/FunctionalCollections.kt)
 
-#### 6. 함수형 프로그래밍
-
-#### 7. 기타
+#### 7. ..
