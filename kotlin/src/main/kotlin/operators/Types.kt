@@ -1,5 +1,7 @@
 package operators
 
+import operators.misc.Person
+
 fun main() {
 
     // 타입 추론

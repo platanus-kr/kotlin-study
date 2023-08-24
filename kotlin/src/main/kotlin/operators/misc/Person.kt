@@ -1,4 +1,4 @@
-package operators
+package operators.misc
 
 class Person(name: String,
              age: Int) {

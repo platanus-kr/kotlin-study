@@ -1,4 +1,4 @@
-package controlstatements;
+package controlstatements.exceptions;
 
 import java.io.BufferedReader;
 import java.io.File;

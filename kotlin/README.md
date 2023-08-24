@@ -1,4 +1,4 @@
-# Kotlin language study
+# Kotlin study
 
 ## 1. 제어 연산
 
@@ -23,3 +23,13 @@
 ### 상속
 
 ### 접근 제어, 가시성
+
+### object
+
+- static
+- singleton
+- 익명 클래스 
+
+### 중첩/내부 클래스
+
+### 

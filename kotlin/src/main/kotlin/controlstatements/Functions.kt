@@ -1,5 +1,7 @@
 package controlstatements
 
+import controlstatements.misc.FuncPerson
+
 fun main() {
     // default argument use
     val defaultArg = defaultArg()

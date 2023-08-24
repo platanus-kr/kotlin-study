@@ -1,5 +1,8 @@
 package operators
 
+import operators.operatoroverriding.JavaMoney
+import operators.operatoroverriding.KotlinMoney
+
 fun main() {
     val money1 = JavaMoney(2000L)
     val money2 = JavaMoney(1000L)

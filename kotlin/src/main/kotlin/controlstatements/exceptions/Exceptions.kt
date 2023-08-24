@@ -1,4 +1,4 @@
-package controlstatements
+package controlstatements.exceptions
 
 fun parseIntOrThrow(str: String): Int {
     try {

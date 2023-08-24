@@ -1,5 +1,7 @@
 package operators
 
+import operators.misc.Person
+
 fun main() {
     println("-----------")
 

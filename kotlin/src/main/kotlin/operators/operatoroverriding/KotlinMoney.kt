@@ -1,4 +1,4 @@
-package operators
+package operators.operatoroverriding
 
 data class KotlinMoney(
     val amount: Long
