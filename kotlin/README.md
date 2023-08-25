@@ -1,6 +1,6 @@
 # Kotlin programming study
 
-> 언어 기본 특성 학습   
+> 언어 기본 학습   
 > 2023.08.21 ~ 2023.08.26
 
 #### 1. 제어 연산
@@ -40,6 +40,7 @@
 - [세트](src/main/kotlin/collections/Sets.kt)
 
 #### 5. 함수
+
 - [확장 함수](src/main/kotlin/functions/ExtensionFunctions.kt)
 - [중위 함수](src/main/kotlin/functions/InfixFunctions.kt)
 - [inline 함수](src/main/kotlin/functions/InlineFunctions.kt)
@@ -49,4 +50,15 @@
 - [클로저](src/main/kotlin/functions/Closures.kt)
 - [함수형 컬렉션](src/main/kotlin/functions/FunctionalCollections.kt)
 
-#### 7. ..
+#### 6. Kotlin specific
+
+> 코틀린에만 있는 언어적 특징
+
+- [Type alias](src/main/kotlin/scope/TypeAliases.kt)
+- [as Import](src/main/kotlin/scope/AsImport.kt)
+- [componentN](src/main/kotlin/scope/ComponentN.kt)
+- [Jump](#)
+- [Label](#)
+- [Take](#)
+- [scope function](#)
+

@@ -1,0 +1,4 @@
+package scope
+
+class Jumps {
+}
