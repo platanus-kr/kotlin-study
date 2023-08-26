@@ -54,11 +54,13 @@
 
 > 코틀린에만 있는 언어적 특징
 
-- [Type alias](src/main/kotlin/scope/TypeAliases.kt)
-- [as Import](src/main/kotlin/scope/AsImport.kt)
-- [componentN](src/main/kotlin/scope/ComponentN.kt)
-- [Jump](#)
-- [Label](#)
-- [Take](#)
-- [scope function](#)
+- [Type alias](src/main/kotlin/others/TypeAliases.kt)
+- [as Import](src/main/kotlin/others/AsImport.kt)
+- [componentN](src/main/kotlin/others/ComponentN.kt)
+- [Jump](src/main/kotlin/others/Jumps.kt)
+- [Label](src/main/kotlin/others/Labels.kt)
+- [Take](src/main/kotlin/others/Takes.kt)
 
+#### 7. scope
+
+- [scope function](#)

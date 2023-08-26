@@ -1,4 +1,4 @@
-package scope.misc
+package others.misc
 
 class A {
     companion object {

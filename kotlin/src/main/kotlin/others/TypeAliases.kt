@@ -1,6 +1,6 @@
-package scope
+package others
 
-import scope.misc.Fruit
+import others.misc.Fruit
 
 
 /**

@@ -1,4 +1,0 @@
-package scope
-
-class Jumps {
-}
