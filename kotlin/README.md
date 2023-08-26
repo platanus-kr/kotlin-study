@@ -63,4 +63,4 @@
 
 #### 7. scope
 
-- [scope function](#)
+- [scope function](src/main/kotlin/scope/Scopes.kt)
